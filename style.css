@@ -1,0 +1,14 @@
+body{
+    font-family: 'poppins',sans-serif;
+}
+h1{
+    font-size:50px;
+}
+.name-highlight{
+    color:goldenrod;
+}
+.half-width{
+    width:50%;
+    float:left;
+    
+}
