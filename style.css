@@ -18,10 +18,15 @@ p{
 .half-width{
     width:40%;
     float:left;
+    margin-left:5%;
+    padding-left: 2%;
     
 }
+
+
 .osca{
-        background-image: url("images/oscar.png");
+        background-repeat: no-repeat;
+        background-image: url("images/oscar.png")
         
 
 }
@@ -42,30 +47,7 @@ section{
     background-image:url("images/dream-bg.png");
     background-position:right;
     background-repeat:no-repeat;
+    
+    
 }
-.define{
-    box-shadow:10px 10px 40px gray ;        /*light will be diffraction*/
-    border-radius: 5px;
-    height:80%;
-    background-color:white;
-    padding-right: 100px;
-}
-.experience{
-    background-image: url("images/exp-bg.png");
-    background-repeat:no-repeat;
-    background-position:left;
-}
-#full-stack{
-    border-left: 7px solid;
-    border-image:linear gradient(180 deg,lightsalmon,tomato)
-    border-image-slice:1;
-}
-#web-develop{
-    border-left: 7px solid;
-    border-image:linear gradient(180 deg, blue cyan)
-    border-image-slice:1;
-}
-footer p{
-    text-align:center;
-    font-size=12px;
-}
+
